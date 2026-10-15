@@ -56,3 +56,17 @@ This project strengthened my understanding of:
 - model comparison
 - regularization and pruning
 - minority-class evaluation
+
+- ## Repository Structure
+
+```text
+bank-marketing-classification/
+├── data/
+│   └── bank.csv
+├── notebooks/
+│   ├── logistic-regression/
+│   ├── decision-tree/
+│   └── ensemble/
+├── presentation/
+│   └── Project2_Slide_G6.pdf
+└── README.md
